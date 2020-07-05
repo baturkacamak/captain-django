@@ -1,0 +1,27 @@
+{
+  "name": "captain-django",
+  "version": "1.0.0",
+  "description": "Yet another todo list but this time with django",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baturkacamak/captain-django.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baturkacamak/captain-django/issues"
+  },
+  "homepage": "https://github.com/baturkacamak/captain-django#readme",
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb": "^18.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "eslint-plugin-jsx-a11y": "^6.3.1",
+    "eslint-plugin-react": "^7.20.3",
+    "eslint-plugin-react-hooks": "^4.0.5"
+  }
+}
